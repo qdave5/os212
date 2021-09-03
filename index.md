@@ -1,4 +1,5 @@
-## Selamat Datang
-#### Qosim Ariqoh Daffa
+## **Selamat Datang**
+Saya Qosim Ariqoh Daffa
 
-- Log
+* [Home]()
+* [Log](https://qosimd25.github.io/os212/TXT/mylog.txt)
