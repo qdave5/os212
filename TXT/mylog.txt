@@ -10,3 +10,5 @@ ZCZC W00 03 L14 Assignment #04
 ZCZC W00 100 L02 Zoom meetings related
 ZCZC W00 25 L04 Github Pages related
 ZCZC W00 05 L13 Assignment #03
+ZCZC W00 30 L06 References/Books/Documents/GSGS related
+ZCZC W00 60 L15 Assignment #05
