@@ -14,7 +14,12 @@ ZCZC W00  30 L06 References/Books/Documents/GSGS related
 ZCZC W00  60 L15 Assignment #05
 ZCZC W01  30 L06 References/Books/Documents/GSGS
 ZCZC W01   5 L22 Quiz 1 Week00
-ZCZC W01 100 L02 Zoom meetings related
+ZCZC W01 100 L02 Zoom meetings Monday
 ZCZC W01  30 L11 Assignment #01: VirtualBox Guest Preparation
 ZCZC W01  60 L08 AsDos: Assistance, asking, etc.
 ZCZC W01  60 L12 Assignment #02: Import or Install
+ZCZC W01  40 L13 Assignment #03: ATM, Learn, Try
+ZCZC W01 100 L02 Zoom meetings Thursday
+ZCZC W01  60 L14 Assignment #04: Dress Up Virtual Guest
+ZCZC W01  40 L15 Assignment #05: SSH Keys and Git Cloning
+ZCZC W01  10 L17 Assignment #07: Update mylog.txt
