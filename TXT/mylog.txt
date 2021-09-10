@@ -13,7 +13,7 @@ ZCZC W00   5 L13 Assignment #03
 ZCZC W00  30 L06 References/Books/Documents/GSGS related
 ZCZC W00  60 L15 Assignment #05
 ZCZC W01  30 L06 References/Books/Documents/GSGS
-ZCZC W01   5 L22 Quiz 1 Week00
+ZCZC W01   5 L05 Quiz 1 Week00
 ZCZC W01 100 L02 Zoom meetings Monday
 ZCZC W01  30 L11 Assignment #01: VirtualBox Guest Preparation
 ZCZC W01  60 L08 AsDos: Assistance, asking, etc.
