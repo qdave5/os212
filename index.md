@@ -1,5 +1,3 @@
-## **Selamat Datang**
-Saya Qosim Ariqoh Daffa
-
-* [Home]()
-* [Log](https://qosimd25.github.io/os212/TXT/mylog.txt)
+## **WELCOME TO MY PAGE**
+My name is Qosim Ariqoh Daffa <br>
+I made this page for OS (os212)
