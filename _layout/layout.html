@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- File _layouts/layout.html           -->
+<!-- (c) 2021 - 2021 VauLSMorg           -->
+<!-- START: Sun 12 Sep 2021 13:47:45 WIB -->
+<!-- This is a free HTML file            -->
+{% include head.html %}
+<body class="plainclass1">
+<!-- body class="backclass" -->
+<div class="container">
+  <header>
+  <div class="row">
+    <div class="column left">
+      <img src="{{ site.baseurl }}/assets/images/default.jpg" alt="Default" style="width:130px; border-radius:50%">
+    </div>
+    <div class="column right1">
+      {{ site.title }}
+    </div>
+  </div>
+  </header>
+  {% include navbar.html %}
+  <section>
+     {{ content }}
+  </section>
+  {% include footer.html %}
+</div>
+</body>
+</html>
