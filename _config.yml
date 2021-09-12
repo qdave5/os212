@@ -1,0 +1,16 @@
+author:       "Qosim Ariqoh Daffa"
+title:        "QosimD OS Page"
+
+navbarlinks:
+- navbar:     "Home"
+  link:       "/"
+- navbar:     "Links"
+  link:       "/LINKS/"
+- navbar:     "Tips"
+  link:       "/TIPS/"
+- navbar:     "Log"
+  link:       "/TXT/mylog.txt"
+- navbar:     "Github"
+  link:       "https://github.com/qosimd25/"
+
+urlweb:       "https://qosimd25.github.io/"
