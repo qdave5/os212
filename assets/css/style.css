@@ -10,16 +10,14 @@
 
 .plainclass {
   color:            white;
-  background-color: #101030;
+  background-color: #101010;
 }
 
-/* See https://www.w3schools.com/colors/colors_hsl.asp              */
-/* See https://www.quackit.com/css/color/charts/hsl_color_chart.cfm */
 .plainclass1 {
-  color:            hsl(0, 100%, 100%);
-  background-color: hsl(0, 10%, 10%);
+  color:            rgb(255, 255, 100%);
+  background-color: rgb(23, 23, 23);
   line-height:      120%;
-  font-family:      monospace,courier;
+  font-family:      'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .plainclass1 li {
@@ -27,15 +25,15 @@
 }
 
 .plainclass1 h1 {
-  color:            hsl(100, 50%, 50%);
+  color:            rgb(68, 175, 255);
 }
 
 .plainclass1 h2 {
-  color:            hsl(100, 50%, 50%);
+  color:            rgb(68, 175, 255);
 }
 
 .plainclass1 h3 {
-  color:            hsl(100, 50%, 50%);
+  color:            rgb(68, 175, 255);
 }
 
 .container {
@@ -73,23 +71,13 @@
   width:            130px;
 }
 
-.right1 {
-  height:           66px;
+.right {
+  height:           70px;
   width:            calc(100% - 200px);
-  padding-top:      24px;
-  padding-bottom:   0px;
+  padding-top:      23px;
+  padding-bottom:   1px;
   padding-left:     30px;
-  font-size:        1.9em;
-  font-weight:      bold;
-}
-
-.right2 {
-  height:           50px;
-  width:            calc(100% - 200px);
-  padding-top:      5px;
-  padding-bottom:   5px;
-  padding-left:     30px;
-  font-size:        1.3em;
+  font-size:        1.8em;
   font-weight:      bold;
 }
 
@@ -130,14 +118,14 @@
 
 .navbar {
   font-size:        0.8em;
-  border-width:     0px;
+  border-width:     0.1px;
   margin:           0px;
 }
 
 .navbar ul li {
   display:          inline-block;
-  background-color: hsla(0,     0%,    0%, 1);
-  padding:          11px;
+  background-color: rgba(0, 0, 0, 1);
+  padding:          12px;
 }
 
 .navbar ul li a {
@@ -145,18 +133,18 @@
 }
 
 .navbar ul li a:hover {
-  background-color: hsla(255,   100%,   50%, 1);
-  font-size:        1.15em;
+  background-color: rgba(65, 0, 255, 1);
+  font-size:        1.1em;
   font-weight:      bold;
   padding:          2px;
 }
 
 pre {
-  background-color: hsla(0,     0%,    0%, 1);
-  border:           1px solid hsla(0,    50%,   20%, 1);
+  background-color: rgba(0, 0, 0, 1);
+  border:           1px solid rgba(26, 26, 26, 1);
   padding:          10px;
   font-size:        16px;
-  color:            hsla(0,   100%,  100%, 1);
+  color:            rgba(255, 255, 255, 1);
   border-radius:    2px;
   word-wrap:        normal;
   overflow:         auto;

@@ -1,4 +1,4 @@
-version:     "00007--12-Sep-2021"
+version:     "---"
 copyright:   "2021-2021"
 description:
   Github OS Page
@@ -14,13 +14,11 @@ navbarlinks:
   link:      "/TIPS/"
 - navbar:    "Log"
   link:      "https://qosimd25.github.io/os212/TXT/mylog.txt"
-- navbar:    "TarBall"
-  link:      "/"
 - navbar:    "GitHub"
   link:      "https://github.com/qosimd25/"
-title:       "GitHub Page"
+title:       "Operating System 2021-2 (os212)"
 lang:        "en-US"
-author:      "Qosim A. D."
+author:      "Qosim A.D."
 address:     ""
 sitemap:     "true"
 markdown:    "kramdown"
@@ -36,8 +34,6 @@ plugins:
 - jekyll-seo-tag
 google_analytics: "UA-89852122-15"
 
-urlweb:           "https://template.vlsm.org/"
-urlcontact:       "TBA"
-urlgithub:        "https://github.com/ThisIsHowMeDoIt/template"
-
-
+urlweb:           "https://qosimd25.github.io/os212"
+urlcontact:       ""
+urlgithub:        "https://github.com/qosimd25/os212"

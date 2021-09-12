@@ -2,6 +2,7 @@
 <html lang="en">
 <!-- File _layouts/layout.html           -->
 <!-- (c) 2021 - 2021 VauLSMorg           -->
+<!-- START: Sun 12 Sep 2021 19:52:18 WIB -->
 <!-- REV00: Sun 04 Jul 2021 10:48:43 WIB -->
 <!-- START: Wed 17 Feb 2021 19:44:53 WIB -->
 <!-- This is a free HTML file            -->
@@ -14,16 +15,9 @@
     <div class="column left">
       <img src="{{ site.baseurl }}/assets/images/default.jpg" alt="Default" style="width:130px; border-radius:50%">
     </div>
-    <div class="column right1">
+    <div class="column right">
       {% if page.title %}{{ page.title | escape }}
       {% else %}{{ site.title | escape }}{% endif %}
-    </div>
-    <div class="column right2">
-      {% if page.author %}{{ page.author | escape }}
-      {% else %}{{ site.author | escape }}{% endif %}
-      ---
-      {% if page.address %}{{ page.address | escape }}
-      {% else %}{{ site.address | escape }}{% endif %}
     </div>
   </div>
   </header>
