@@ -57,7 +57,7 @@
 .column {
   float:            left;
   display:          inline-block;
-  background:       #808080;
+  background:       #7070dd;
   height:           130px;
   width:            100%;
   padding-top:      10px;
@@ -74,8 +74,8 @@
 .right {
   height:           130px;
   width:            calc(100% - 200px);
-  padding-top:      23px;
-  padding-bottom:   1px;
+  padding-top:      20px;
+  padding-bottom:   0px;
   padding-left:     30px;
   font-size:        1.8em;
   font-weight:      bold;
