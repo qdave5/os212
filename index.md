@@ -1,6 +1,5 @@
----
----
+## **Selamat Datang**
+Saya Qosim Ariqoh Daffa
 
-## **Welcome to My Page**
-I am {{ site.author }}.
-I build this page for OS (os212).
+* [Home]()
+* [Log](https://qosimd25.github.io/os212/TXT/mylog.txt)
