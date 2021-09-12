@@ -1,38 +1,43 @@
-version:      "---"
-copyright:    "2021-2021"
+version:     "00007--12-Sep-2021"
+copyright:   "2021-2021"
 description:
-  GitHub Page
-deisclaimer:
-  I have spoken
-keywords:     "jekyll, testing"
+  Github OS Page
+disclaimer:
+  I have spoken.
+keywords:    "jekyll, testing"
 navbarlinks:
-- navbar:     "Home"
-  link:       "/"
-- navbar:     "Links"
-  link:       "/LINKS/"
-- navbar:     "Tips"
-  link:       "/TIPS/"
-- navbar:     "Log"
-  link:       "https://qosimd25.github.io/os212/TXT/mylog.txt"
-- navbar:     "Github"
-  link:       "https://github.com/qosimd25/"
-
-title:        "QosimD OS212 Page"
-lang:         "en-us"
-author:       "Qosim Ariqoh Daffa"
-sitemap:      "true"
-markdown:     "kramdown"
-default:
+- navbar:    "Home"
+  link:      "/"
+- navbar:    "Links"
+  link:      "/LINKS/"
+- navbar:    "Tips"
+  link:      "/TIPS/"
+- navbar:    "Log"
+  link:      "https://qosimd25.github.io/os212/TXT/mylog.txt"
+- navbar:    "TarBall"
+  link:      "/"
+- navbar:    "GitHub"
+  link:      "https://github.com/qosimd25/"
+title:       "GitHub Page"
+lang:        "en-US"
+author:      "Qosim A. D."
+address:     ""
+sitemap:     "true"
+markdown:    "kramdown"
+defaults:
 - scope:
-    path:     ""
+    path:    ""
   values:
-    layout:   "default"
+    layout:  "default"
 github:
 - metadata
 plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
+google_analytics: "UA-89852122-15"
 
-urlweb:       "https://template.vlsm.org/"
-urlcontact:   "TBA"
-urlgithub:    "https://github.com/ThisIsHowMeDoIt/template"
+urlweb:           "https://template.vlsm.org/"
+urlcontact:       "TBA"
+urlgithub:        "https://github.com/ThisIsHowMeDoIt/template"
+
+
