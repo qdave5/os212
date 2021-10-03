@@ -51,3 +51,16 @@ ZCZC W03   5 L16 Assignment #6: Update bookmark links
 ZCZC W03  12 L17 Assignment #7: Review peer links
 ZCZC W03  15 L18 Assignment #8: Update mylog.txt
 ZCZC W03   5 L19 Assignment #9: Submit Week 03 Assignment
+
+ZCZC W04  20 L05 Quiz 1 & 2 week 03
+ZCZC W04 100 L02 Zoom meetings Monday
+ZCZC W04  40 L11 Assignment #1: Read OSC10 ch.9
+ZCZC W04 100 L02 Zoom meetings Thursday
+ZCZC W04  45 L12 Assignment #2: Try Demos
+ZCZC W04  40 L13 Assignment #3: Try MidTerm Problem
+ZCZC W04  40 L14 Assignment #4: Install Package List 2 (TLPI)
+ZCZC W04  25 L15 Assignment #5: Fetch and Extract file "WEEK04.tar.bz2.asc"
+ZCZC W04   5 L06 Assignment #6: Update bookmark links
+ZCZC W04  10 L07 Assignment #7: Review peer links
+ZCZC W04  10 L08 Assignment #8: Update log
+ZCZC W04  10 L09 Assignment $9: Submit week 04 assignment
