@@ -4,4 +4,4 @@ permalink: /TIPS/
 
 # **TIPS**
 
-1. NONE
+1. Still NONE for now.

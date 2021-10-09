@@ -40,4 +40,9 @@ Covers the essential concepts such as using variables, basic operators, loops & 
 Provides an understanding of Linux File Hierarchy Structure.
 Easy to learn and understand for me.
 
-9. Coming Soon
+9. [Virtual Memory](https://www.youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX)
+Virtual Memory lecture for Introduction to Computer Architecture.
+Give a basic understanding of virtual memory.
+
+10. Coming Soon
+
