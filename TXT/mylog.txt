@@ -77,3 +77,15 @@ ZCZC W05   2 L16 Assignment #6: tips.md
 ZCZC W05  10 L17 Assignment #7: Review peer links
 ZCZC W05  10 L18 Assignment #8: Update log
 ZCZC w05  10 L19 Assignment #9: Submit week 05 assignments
+
+ZCZC W06  20 L05 Quiz 1 & 2 week 05
+ZCZC W06  70 L02 Asynchonous study
+ZCZC W06  60 L11 Assignment #1: Read OSC10 ch. 3 & 4
+ZCZC W06 100 L02 Zoom meetings Thursday
+ZCZC W06  30 L12 Assignment #2: Try Demos
+ZCZC W06  20 L13 Assignment #3: Try Midterm Problem
+ZCZC W06  35 L14 Assignment #4: Fork and Shared Memory
+ZCZC W06  10 L15 Assignment #5: Update Bookmark list
+ZCZC W06  10 L17 Assignment #7: Update peer links
+ZCZC W06  10 L18 Assignment #8: Update log
+ZCZC W06  10 L19 Assignment #9: Submit week 06 assignments
