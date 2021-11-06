@@ -48,5 +48,36 @@ Easy to learn and understand for me.
 Virtual Memory lecture for Introduction to Computer Architecture.
 Give a basic understanding of virtual memory.
 
-11. Coming Soon
+11. [Fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
+A basic understanding of what is fork() and how it's process.
+And after that, there is a little comparison of fork() and exec()
+
+12. [Concurrency](https://www.javatpoint.com/concurrency-in-operating-system)
+A basic learn of concurrency in the operating system with its principle,
+issues, advantages and disadvantages.
+
+13. [Threads](https://www.javatpoint.com/threads-in-operating-system)
+A basic understanding of Threads in operating system.
+Explain the type of threads with its advantages and disadvantages.
+Lastly explain about it components and benefits.
+
+14. [Concurrency and Threads](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)
+Another site to learn concurrency and threads.
+Also can learn from [this site](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8).
+[Alternative learn from youtube](https://www.youtube.com/watch?v=olYdb0DdGtM).
+
+15. [Synchronization](https://www.youtube.com/watch?v=ZQb3DRy0g8U)
+A basic learn about synchronization.
+It also explain about Race Conditions, Critical Section and Locks and Unlocks.
+[Alternative Site](https://www.studytonight.com/operating-system/process-synchronization) about synchronization.
+
+16. [Semaphore](https://www.youtube.com/watch?v=ukM_zzrIeXs)
+A basic understanding about what is semaphore and how it work.
+
+17. [Deadlocks](https://www.youtube.com/watch?v=UVo9mGARkhQ)
+An OS video tutorial that explain about deadlock in Operating Systems.
+Also explain about the conditions that result in deadlocks and strategies for handling deadlocks.
+Other [alternative site](https://www.guru99.com/deadlock-in-operating-system.html) to learn deadlock.
+
+18. Coming Soon
 
