@@ -79,5 +79,16 @@ An OS video tutorial that explain about deadlock in Operating Systems.
 Also explain about the conditions that result in deadlocks and strategies for handling deadlocks.
 Other [alternative site](https://www.guru99.com/deadlock-in-operating-system.html) to learn deadlock.
 
-18. Coming Soon
+18. [Process Scheduling in OS](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)
+A basic understanding of what is process scheduling in OS.
+[Alternative site](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/).
 
+19. [Process Scheduling Example](https://www.youtube.com/watch?v=exlaEOVRWQM)
+A youtube video about scheduling process and it variety.
+It give a question about scheduling and how to answer it.
+
+20. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/)
+This web is used for week 08 OS assignment.
+It give an introduction to lfs and step-by-step to make lfs.
+
+21. Coming Soon
