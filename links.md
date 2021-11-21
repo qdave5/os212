@@ -90,5 +90,9 @@ It give a question about scheduling and how to answer it.
 20. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/)
 This web is used for week 08 OS assignment.
 It give an introduction to lfs and step-by-step to make lfs.
+But I recommend to watch it [youtube tutorial](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE) if you're not familiar with Linux.
 
-21. Coming Soon
+21. [Mass-Storage Structure](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/12_MassStorage.html)
+An overview of Mass-Storage Structure.
+
+22. Coming Soon
